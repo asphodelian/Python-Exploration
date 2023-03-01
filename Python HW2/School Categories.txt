@@ -1,0 +1,30 @@
+# Bailey High School
+bail = comp_school[(comp_school['school_name'] == "Bailey High School")]
+# Johnson High School
+john = comp_school[(comp_school['school_name'] == "Johnson High School")]
+# Hernandez High School
+hern = comp_school[(comp_school['school_name'] == "Hernandez High School")]
+# Rodriguez High School
+rod = comp_school[(comp_school['school_name'] == "Rodriguez High School")]
+# Figueroa High School
+fig = comp_school[(comp_school['school_name'] == "Figueroa High School")]
+# Huang High School
+hua = comp_school[(comp_school['school_name'] == "Huang High School")]
+# Ford High School
+ford = comp_school[(comp_school['school_name'] == "Ford High School")]
+# Wilson High School
+wil = comp_school[(comp_school['school_name'] == "Wilson High School")]
+# Cabrera High School
+cab = comp_school[(comp_school['school_name'] == "Cabrera High School")]
+# Wright High School
+wri = comp_school[(comp_school['school_name'] == "Wright High School")]
+# Shelton High School
+she = comp_school[(comp_school['school_name'] == "Shelton High School")]
+# Thomas High School
+tho = comp_school[(comp_school['school_name'] == "Thomas High School")]
+# Griffin High School
+grif = comp_school[(comp_school['school_name'] == "Griffin High School")]
+# Pena High School
+pen = comp_school[(comp_school['school_name'] == "Pena High School")]
+# Holden High School
+hold = comp_school[(comp_school['school_name'] == "Holden High School")]
